@@ -12,6 +12,7 @@ gem 'bootsnap', '>= 1.4.2', require: false
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem 'graphql', '1.9.17'
+gem 'graphiql-rails', '1.7.0', group: :development
 
 group :development, :test do
   gem 'byebug', platforms: [:mri, :mingw, :x64_mingw]
@@ -24,5 +25,3 @@ group :development do
   gem 'spring-watcher-listen', '~> 2.0.0'
 end
 
-
-gem 'graphiql-rails', group: :development
