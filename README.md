@@ -1,3 +1,3 @@
 # README
 
-https://www.howtographql.com/graphql-ruby の勉強
+https://www.howtographql.com/
